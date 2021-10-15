@@ -16,15 +16,15 @@
                 },
                 social: {
                     linkedin: "",
-                    twitter: "barMhank",
+                    twitter: "",
                     facebook: "",
                     dribbble: "",
                     behance: "",
                     medium: "",
                     devto: "",
-                    website: "https://antei.codes",
-                    phone: "+6285892766102",
-                    email: "mhankbarbar@yes.my"
+                    website: "https://ferdiz-afk.my.id",
+                    phone: "+6287877173955",
+                    email: "ferdizakyla@gmail.com"
                 },
                 skills: ["Python", "JavaScript", "Node.js", "Git"],
                 experiences: [],
@@ -1316,7 +1316,7 @@
                                     children: Object(b.jsx)("div", {
                                         children: Object(b.jsxs)("p", {
                                             className: "font-mono text-sm",
-                                            children: ["Made with \u2764\ufe0f by ", Object(b.jsx)("a", {
+                                            children: ["copyright tempelate \u2764\ufe0f by ", Object(b.jsx)("a", {
                                                 className: "text-primary",
                                                 href: "https://github.com/FERDIZ-afk",
                                                 target: "_blank",
