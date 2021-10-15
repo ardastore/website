@@ -22,11 +22,11 @@
                     behance: "",
                     medium: "",
                     devto: "",
-                    website: "https://ferdiz-afk.my.id/",
+                    website: "https://ferdiz-afk.my.id",
                     phone: "+6287877173955",
                     email: "ferdizakyla@gmail.com"
                 },
-                skills: ["Python", "JavaScript", "Node.js", "Git"],
+                skills: ["pemula sih cuman tau dikit","Python", "JavaScript", "Node.js", "Git"],
                 experiences: [],
                 education: [],
                 blog: {},
@@ -1316,12 +1316,12 @@
                                     children: Object(b.jsx)("div", {
                                         children: Object(b.jsxs)("p", {
                                             className: "font-mono text-sm",
-                                            children: ["copyright tempelate \u2764\ufe0f by ", Object(b.jsx)("a", {
+                                            children: ["Made with \u2764\ufe0f by ", Object(b.jsx)("a", {
                                                 className: "text-primary",
-                                                href: "https://github.com/mhankbarbar",
+                                                href: "https://github.com/FERDIZ-afk",
                                                 target: "_blank",
                                                 rel: "noreferrer",
-                                                children: "mhankbarbar"
+                                                children: "MhankBarBar"
                                             })]
                                         })
                                     })
@@ -1362,5 +1362,4 @@
         [89, 1, 2]
     ]
 ]);
-
 //# sourceMappingURL=main.2d9db2ce.chunk.js.map
