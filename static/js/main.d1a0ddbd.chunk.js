@@ -11,7 +11,7 @@
                     limit: 8,
                     exclude: {
                         forks: !0,
-                        projects: ["MhankBarBar", "dekompel"]
+                        projects: ["FERDIZ-afk", "dekompel"]
                     }
                 },
                 social: {
@@ -22,7 +22,7 @@
                     behance: "",
                     medium: "",
                     devto: "",
-                    website: "https://ferdiz-afk.my.id",
+                    website: "https://ferdiz-afk.my.id/",
                     phone: "+6287877173955",
                     email: "ferdizakyla@gmail.com"
                 },
@@ -207,7 +207,7 @@
                 },
                 C = l(41),
                 S = l(7),
-                E = u.a.themeConfig.disableSwitch ? u.a.themeConfig.default : localStorage.hasOwnProperty("ezprofileTheme") ? localStorage.getItem("ezprofileTheme") : u.a.themeConfig.respectPrefersColorScheme && !u.a.themeConfig.disableSwitch && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : u.a.themeConfig.default,
+                E = u.a.themeConfig.disableSwitch ? u.a.themeConfig.themes[Math.floor(Math.random() * u.a.themeConfig.themes.length)] : localStorage.hasOwnProperty("ezprofileTheme") ? localStorage.getItem("ezprofileTheme") : u.a.themeConfig.respectPrefersColorScheme && !u.a.themeConfig.disableSwitch ? window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : u.a.themeConfig.default : u.a.themeConfig.themes[Math.floor(Math.random() * u.a.themeConfig.themes.length)],
                 L = Object(c.createContext)(),
                 B = function(t) {
                     var e = Object(c.useState)(E),
@@ -1183,7 +1183,7 @@
                                 content: "summary_large_image"
                             }), Object(b.jsx)("meta", {
                                 name: "twitter:title",
-                                content: "MhankBarBar Portfolio"
+                                content: "FERDIZ-afk Portfolio"
                             }), Object(b.jsx)("meta", {
                                 name: "twitter:description",
                                 content: t.profile.bio
@@ -1318,10 +1318,10 @@
                                             className: "font-mono text-sm",
                                             children: ["copyright tempelate \u2764\ufe0f by ", Object(b.jsx)("a", {
                                                 className: "text-primary",
-                                                href: "https://github.com/FERDIZ-afk",
+                                                href: "https://github.com/mhankbarbar",
                                                 target: "_blank",
                                                 rel: "noreferrer",
-                                                children: "MhankBarBar"
+                                                children: "mhankbarbar"
                                             })]
                                         })
                                     })
@@ -1362,4 +1362,5 @@
         [89, 1, 2]
     ]
 ]);
-//# sourceMappingURL=main.d1a0ddbd.chunk.js.map
+
+//# sourceMappingURL=main.2d9db2ce.chunk.js.map
