@@ -7,8 +7,8 @@
             t.exports = {
                 github: {
                     username: "FERDIZ-afk",
-                    sortBy: "stars",
-                    limit: 8,
+                    sortBy: "Last updated",
+                    limit: 10,
                     exclude: {
                         forks: !0,
                         projects: ["FERDIZ-afk", "dekompel"]
@@ -31,7 +31,7 @@
                 education: [],
                 blog: {},
                 googleAnalytics: {
-                    id: "G-TGZW27YY3W"
+                    id: ""
                 },
                 hotjar: {
                     id: "",
