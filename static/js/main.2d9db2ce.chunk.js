@@ -7,8 +7,8 @@
             t.exports = {
                 github: {
                     username: "FERDIZ-afk",
-                    sortBy: "last updated",
-                    limit: 10,
+                    sortBy: "stars",
+                    limit: 8,
                     exclude: {
                         forks: !0,
                         projects: ["FERDIZ-afk", "dekompel"]
