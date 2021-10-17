@@ -8,7 +8,7 @@
                 github: {
                     username: "FERDIZ-afk",
                     sortBy: "Last updated",
-                    limit: 10,
+                    limit: 19,
                     exclude: {
                         forks: !0,
                         projects: ["FERDIZ-afk", "dekompel"]
