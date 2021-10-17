@@ -7,7 +7,7 @@
             t.exports = {
                 github: {
                     username: "FERDIZ-afk",
-                    sortBy: "stars",
+                    sortBy: "updated",
                     limit: 8,
                     exclude: {
                         forks: !0,
@@ -27,7 +27,14 @@
                     email: "ferdizakyla@gmail.com"
                 },
                 skills: ["pemula sih cuman tau dikit","Python", "JavaScript", "Node.js", "Git"],
-                experiences: [],
+                experiences: [
+                              {
+                  company: 'pacitan',
+                  position: 'rasa rindu',
+                  from: 'oktober 2021',
+                  to: 'cewek yang tau siapa aku'
+                }
+                  ],
                 education: [],
                 blog: {},
                 googleAnalytics: {
