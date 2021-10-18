@@ -8,7 +8,7 @@
                 github: {
                     username: "FERDIZ-afk",
                     sortBy: "updated",
-                    limit: 8,
+                    limit: 18,
                     exclude: {
                         forks: !0,
                         projects: ["FERDIZ-afk", "dekompel"]
@@ -30,9 +30,15 @@
                 experiences: [
                               {
                   company: 'pacitan',
-                  position: 'rasa rindu',
+                  position: 'Berat ya? Kehilangan seseorang yang disukai. Kamu hanya perlu belajar rela dan menerima, perlahan lega akan menyapa.',
                   from: 'oktober 2021',
-                  to: 'cewek yang tau siapa aku'
+                  to: 'you who read'
+                },
+                                              {
+                  company: 'pacitan',
+                  position: 'cape juga ya cuma bisa kagum sama dia tapi ga bisa milikin.',
+                  from: 'oktober 2021',
+                  to: 'you who read'
                 }
                   ],
                 education: [],
