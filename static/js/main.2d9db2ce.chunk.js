@@ -11,7 +11,7 @@
                     limit: 18,
                     exclude: {
                         forks: !0,
-                        projects: ["FERDIZ-afk", "dekompel"]
+                        projects: ["ardastore", "dekompel"]
                     }
                 },
                 social: {
